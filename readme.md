@@ -11,3 +11,7 @@ And here we are; reviving my website again only this time I'm going yet another 
 
 - [ ] Allocate and Write pages and routes for the very top level of interaction.
 - [ ] Implement argument handling for ease of scripting.
+- [ ] Compile for use with Linux.
+- [ ] Establish debugging server environment.
+- [ ] Test for robustness with Kali.
+- [ ] Add/Include multimedia content.
